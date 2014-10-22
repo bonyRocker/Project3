@@ -1,5 +1,10 @@
 This is the branch of FirstFile
 
-working on this
+previous version is with full of bugs
 
-finished
+1. Complain
+2. Check
+3. Detect
+4. Solve
+5. Recheck
+6. Release
