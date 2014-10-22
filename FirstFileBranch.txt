@@ -1,1 +1,11 @@
-Mergerd with master
+This is the branch of FirstFile
+
+previous version is with full of bugs
+
+1. Complain
+2. Check
+3. Detect
+4. Solve
+5. Recheck
+6. Release
+
